@@ -14,6 +14,13 @@ Ask each other deep questions
 Learn a new skill from YouTube"""
 
 DATES = DATES.split('\n')
+DATES += [
+	"Bali trip",
+	"Japan trip",
+	"Perth trip",
+	"melbourne trip",
+
+]
 
 import random
 
